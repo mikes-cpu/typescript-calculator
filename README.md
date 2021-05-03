@@ -1,6 +1,6 @@
 # typescript-calculator
 
-Working on next:
+Working on next: <br>
 Percentage key
 +/- key
 . key
