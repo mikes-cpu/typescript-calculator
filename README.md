@@ -1,7 +1,7 @@
 # typescript-calculator
 
 Working on next: <br>
-Percentage key
-+/- key
-. key
-Allowing you to press the = key more then once with the correct calculation
+Percentage key <br>
++/- key <br>
+. key <br>
+Allowing you to press the = key more then once with the correct calculation <br>
